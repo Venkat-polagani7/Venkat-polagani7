@@ -1,6 +1,8 @@
 ### Hi there 👋, Venkat Goud Polagani😇
 #### Web Developer | Software Developer | Project Manager
 ![Web Developer | Software Developer | Project Manager](https://pbs.twimg.com/profile_banners/1552215012915441664/1688469812/1500x500)
+<img width="737" alt="image" src="https://github.com/Venkat-polagani7/Venkat-polagani7/assets/103422239/3ac2b65b-131b-4a9c-a56d-f697cc650ade">
+
 
 I am a passionate and dedicated Computer Science Engineering (CSE) student with a strong foundation in Java programming, web development, and cloud technologies. 
 I thrive in the world of coding and enjoy taking on challenging projects that allow me to apply my skills and learn new technologies. 
