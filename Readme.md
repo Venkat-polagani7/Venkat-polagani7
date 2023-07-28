@@ -48,4 +48,4 @@ With a keen interest in project and product management, I strive to create innov
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Venkat-polagani7)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=Venkat-polagani7&show_icons=true)  
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Venkat-polagani7)  
-![Profile views](https://gpvc.arturio.dev/Venkat-polagani7)  
+ 
