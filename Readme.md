@@ -2,12 +2,12 @@
 #### Web Developer | Software Developer | Project Manager
 &emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;<img width="706" alt="image" src="https://github.com/Venkat-polagani7/Venkat-polagani7/assets/103422239/07e1d052-20a3-4289-a576-c9e1eeba26f0">
 
-I am a passionate and dedicated Computer Science Engineering (CSE) student with a strong foundation in Java programming, web development, and cloud technologies. 
+I am a passionate and dedicated Computer Science Engineering (CSE) student with a strong foundation in Java programming, web development, Flutter and cloud technologies. 
 I thrive in the world of coding and enjoy taking on challenging projects that allow me to apply my skills and learn new technologies. 
 With a keen interest in project and product management, I strive to create innovative solutions that deliver exceptional user experiences.
 
-- 🔭 I’m currently working on Software Development 
-- 🌱 I’m currently learning Competitive Programming and Project management 
+- 🔭 I’m currently working as Software Developer
+- 🌱 I’m currently learning Flutter and Project management. 
 - 👯 I’m looking to collaborate on Developing innovative web applications and exploring new technologies. 
 - 🤔 I’m looking for help with I am interested in enhancing my skills in competitive programming and algorithmic problem-solving. 
 - 😄 Pronouns: He/Him 
@@ -32,6 +32,7 @@ With a keen interest in project and product management, I strive to create innov
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
 
 
 # Coding platforms
@@ -40,7 +41,11 @@ With a keen interest in project and product management, I strive to create innov
 
 # Let's Connect
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Venkat-polagani7)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/venkatgoudpolagani/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/1817_venkat)  
+[<img src = 'https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white'>](https://www.linkedin.com/in/venkatgoudpolagani/)
+[<img src='https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white'>](https://twitter.com/venkat_polagani)
+[<img src='https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white'>](https://stackoverflow.com/users/23219594/venkat)
+[<img src='https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white'>](https://medium.com/@venkatpolagani)
+ 
 
 # Stats
 
