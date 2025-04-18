@@ -1,5 +1,5 @@
 ### Hi there 👋, Venkat Goud Polagani😇
-#### Web Developer | Software Developer 
+#### Mobile Developer | Software Developer 
 
 
 I am a passionate and dedicated Computer Science Engineering (CSE) student with a strong foundation in Java programming, web development, Flutter and cloud technologies. 
