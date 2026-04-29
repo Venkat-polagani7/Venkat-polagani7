@@ -15,9 +15,6 @@ Focused on <b>performance, architecture, and production-grade systems</b>
 <a href="https://medium.com/@venkatpolagani">
   <img src="https://img.shields.io/badge/Medium-Read-black?style=for-the-badge&logo=medium" />
 </a>
-<a href="https://stackoverflow.com/users/23219594/venkat">
-  <img src="https://img.shields.io/badge/StackOverflow-Profile-orange?style=for-the-badge&logo=stackoverflow" />
-</a>
 </p>
 
 ---
