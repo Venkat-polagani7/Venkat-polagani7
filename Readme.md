@@ -1,121 +1,90 @@
-# 👋 Venkat Goud Polagani  
-### 🚀 Mobile Engineer | Flutter | Platform Apps | BLE | IoT Systems  
+<!-- ================= HERO SECTION ================= -->
 
-I design and build **scalable mobile platforms** — not just apps.
+<h1 align="center">Hi 👋, I'm Venkat Goud Polagani</h1>
+<h3 align="center">🚀 Mobile Engineer | Platform Builder | Flutter | BLE | IoT Systems</h3>
 
-My work spans across:
-- 📱 **End-to-end app development** (UI → Backend → Device integration)
-- 🔵 **Bluetooth Low Energy (BLE) systems**
-- ☁️ **Cloud-connected mobile platforms**
-- ⚙️ **Production-grade architecture & performance optimization**
+<p align="center">
+I build <b>scalable mobile platforms</b> and <b>real-world device-integrated applications</b><br/>
+Focused on <b>performance, architecture, and production-grade systems</b>
+</p>
 
-I focus on building applications that are **reliable, scalable, and used in real-world environments**.
-
----
-
-## 🧠 Engineering Focus
-
-- 📱 Flutter (Advanced UI + Scalable Architecture)
-- 🧩 Platform App Development (modular, extensible systems)
-- 🔵 Bluetooth Low Energy (BLE) & IoT integrations
-- ☁️ Firebase & Cloud-based architectures
-- ⚡ Performance optimization & debugging
-- 🏗 Clean Architecture + Riverpod
+<p align="center">
+<a href="https://www.linkedin.com/in/venkatgoudpolagani/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
+</a>
+<a href="https://medium.com/@venkatpolagani">
+  <img src="https://img.shields.io/badge/Medium-Read-black?style=for-the-badge&logo=medium" />
+</a>
+<a href="https://stackoverflow.com/users/23219594/venkat">
+  <img src="https://img.shields.io/badge/StackOverflow-Profile-orange?style=for-the-badge&logo=stackoverflow" />
+</a>
+</p>
 
 ---
 
-## 🛠 Featured Work
+## 🧠 What I Actually Do
 
-### 🔹 Platform-Based Mobile Applications
-Built and contributed to **feature-rich, scalable mobile platforms** used in production.
+I don’t just build apps — I build **systems that scale in production**.
 
-**Key Contributions:**
-- Modular architecture for scalable feature development  
-- Product registration & lifecycle management systems  
-- Alexa / voice assistant integrations  
-- Secure authentication & onboarding flows  
-- Real-world user experience optimization  
-
-👉 Focus: building apps that **scale across features, users, and devices**
+- 📱 Architect **end-to-end mobile platforms**
+- 🔵 Build **BLE-based real-time communication systems**
+- ⚙️ Design **modular & scalable app architectures**
+- ☁️ Integrate **cloud + device ecosystems**
+- ⚡ Optimize **performance under real-world constraints**
 
 ---
 
-### 🔹 BLE Explorer (Engineering Tool)
-A **low-level BLE debugging & exploration app** built using Flutter.
+## 🚀 Featured Engineering Work
 
-**Key Highlights:**
-- Real-time BLE device scanning & filtering  
-- GATT service & characteristic discovery  
-- Read / Write / Notify operations  
-- Handles edge cases: reconnections, MTU, unstable devices  
+### 🔷 Platform-Based Mobile Applications
 
-👉 Built as a **developer-grade tool**, not just a demo  
+Built **production-grade applications** with scalable architecture and real users.
 
----
+**Highlights:**
+- Modular feature architecture (extensible system design)
+- Product registration & lifecycle management
+- Alexa / voice integrations
+- Secure onboarding & authentication flows
+- Performance-focused UI systems
 
-### 🔹 IoT Mobile Integrations
-Worked on applications interacting with **smart devices & embedded systems**.
-
-- Device onboarding & provisioning flows  
-- Real-time device communication  
-- Cloud sync & device state management  
-- Fault-tolerant connection handling  
+👉 Focus: **long-term scalable platforms, not one-off apps**
 
 ---
 
-## 🧱 Tech Stack
+### 🔷 BLE Explorer (Developer Tool)
 
-**Languages**
-- Dart, Java, JavaScript  
+A **low-level BLE debugging tool** built with Flutter.
 
-**Mobile**
-- Flutter (Primary)  
+**What makes it different:**
+- Real-time device scanning engine  
+- GATT services & characteristics explorer  
+- Read / Write / Notify pipelines  
+- Handles unstable connections, retries, MTU tuning  
 
-**Backend & Cloud**
-- Firebase, Node.js, Google Cloud  
-
-**Databases**
-- MySQL, MongoDB  
+👉 Built like an **engineering tool**, not a showcase project  
 
 ---
 
-## ⚙️ Development Philosophy
+### 🔷 IoT + Device Integrations
 
-- Build **systems**, not just screens  
-- Design for **scalability from day one**  
-- Handle **real-world edge cases**, not just happy paths  
-- Write code that is **maintainable, testable, and extensible**  
+Worked on **mobile ↔ hardware communication systems**
 
----
-
-## 📈 Current Growth
-
-- Deep diving into **Flutter internals & rendering pipeline**
-- Improving **system design & architecture thinking**
-- Strengthening **DSA & problem-solving skills**
+- Device onboarding & provisioning  
+- Real-time sync with cloud  
+- Fault-tolerant BLE communication  
+- Device state management systems  
 
 ---
 
-## 🤝 Open to Collaborate
+## 🏗 System Thinking
 
-Interested in working on:
-- Platform-based mobile applications  
-- BLE / IoT systems  
-- Scalable Flutter architectures  
-- Developer tools & system-level apps  
-
----
-
-## 🌐 Connect With Me
-
-- 💼 LinkedIn: https://www.linkedin.com/in/venkatgoudpolagani/  
-- 🧠 Medium: https://medium.com/@venkatpolagani  
-
----
-
-## ⚡ Fun Insight
-
-The first programmer in history was **Ada Lovelace**, who wrote an algorithm before computers even existed.  
-
-I like to think we’re still doing the same thing —  
-just with better systems. 😉
+```text
+Presentation Layer (Flutter UI)
+        ↓
+State Management (Riverpod)
+        ↓
+Domain Layer (Business Logic)
+        ↓
+Data Layer (Repositories)
+        ↓
+External Systems (BLE / APIs / Cloud)
