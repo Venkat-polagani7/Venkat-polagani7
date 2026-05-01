@@ -110,7 +110,6 @@ Interested in working on:
 
 - 💼 LinkedIn: https://www.linkedin.com/in/venkatgoudpolagani/  
 - 🧠 Medium: https://medium.com/@venkatpolagani  
-- 💻 StackOverflow: https://stackoverflow.com/users/23219594/venkat  
 
 ---
 
